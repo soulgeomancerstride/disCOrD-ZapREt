@@ -1,6 +1,6 @@
 # disCOrD-ZapREt
 
-Если Discord висит на Connecting, disCOrD-ZapREt поднимает голосовые и видео без стороннего туннеля.
+Новая версия с улучшенной поддержкой Discord. Надежнее, стабильнее, быстрее
 
 Если Discord висит на Connecting, disCOrD-ZapREt поднимает голосовые и видео без стороннего туннеля. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
 
